@@ -2082,7 +2082,7 @@ local Library = {
                     Image = Watermark.Logo,
                     BackgroundTransparency = 1,
                     Position = UDim2.new(0, 0, 0.5, 0),
-                    Size = UDim2.new(0, 0, 0, 50),
+                    Size = UDim2.new(0, 40, 0, 40),
                     BorderSizePixel = 0
                 }):AddToTheme({ImageColor3 = 'Accent'})
                 
@@ -2617,7 +2617,7 @@ local Library = {
                     Image = Window.Logo,
                     BackgroundTransparency = 1,
                     Position = UDim2.new(0, 12, 0.5, 0),
-                    Size = UDim2.new(0, 40, 0, 40),
+                    Size = UDim2.new(0, 60, 0, 60),
                     BorderSizePixel = 0
                 })
                 
